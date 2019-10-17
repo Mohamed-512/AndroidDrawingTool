@@ -1,6 +1,5 @@
 package com.google.drawingtool;
 
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
